@@ -8120,6 +8120,13 @@ react-scripts@3.2.0:
   optionalDependencies:
     fsevents "2.0.7"
 
+react-suspense-img@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/react-suspense-img/-/react-suspense-img-0.2.0.tgz#f38c546f44a9726fa9b2725291545c640a6afc44"
+  integrity sha512-js8n/q39ZPuSpNEBauctxuwUtZlx6IhoE+6Ig22qYVVaNymrO1mCH5gJngh9yvxdlz9Lg2th5C57CI0mG11UoA==
+  dependencies:
+    invariant "^2.2.4"
+
 react@^0.0.0-experimental-38dd17ab9:
   version "0.0.0-experimental-38dd17ab9"
   resolved "https://registry.yarnpkg.com/react/-/react-0.0.0-experimental-38dd17ab9.tgz#d2cc104de47fa58abb4297f27bcc54854e20581a"
