@@ -1,10 +1,13 @@
-# React Concurrent Mode TypeScript Example
+# 🔀 React Concurrent Mode TypeScript Example
 
 This is an example [`create-react-app`](https://create-react-app.dev/docs/adding-typescript/)
 project with TypeScript. Additionally, it enables the experimental concurrent
 mode and suspense features and includes the proper experimental types. The
 intent is that you can explore and experiment with the new experimental features
 but with the type-safety and guardrails of TypeScript.
+
+For more details on this project's setup, read
+["React Concurrent Mode with TypeScript"](https://skovy.dev/getting-started-react-concurrent-mode-typescript/).
 
 ## Getting Started
 
